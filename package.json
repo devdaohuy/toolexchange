@@ -1,11 +1,11 @@
 {
-  "name": "server_toolexchange",
-  "author": "HuyK",
+  "name": "ToolExchangeGame",
+  "author": "HK",
   "version": "1.0.0",
-  "description": "Server for toolexchangegame",
+  "description": "Tool Exchange Game",
   "repository": {
     "type": "Git",
-    "url": "git@gitlab.com:daohuy/toolexchangegame.git"
+    "url": "git@github.com:devdaohuy/toolexchange.git"
   },
   "main": "app.js",
   "license": "MIT",
