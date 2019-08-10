@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d38f8bd.chunk.css",
+    "main.js": "/static/js/main.0160093f.chunk.js",
+    "main.js.map": "/static/js/main.0160093f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.faaa52d3.chunk.css": "/static/css/2.faaa52d3.chunk.css",
+    "static/js/2.531d973e.chunk.js": "/static/js/2.531d973e.chunk.js",
+    "static/js/2.531d973e.chunk.js.map": "/static/js/2.531d973e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50acf8039dcd6f2d83f99a969c63b32f.js": "/precache-manifest.50acf8039dcd6f2d83f99a969c63b32f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.faaa52d3.chunk.css.map": "/static/css/2.faaa52d3.chunk.css.map",
+    "static/css/main.7d38f8bd.chunk.css.map": "/static/css/main.7d38f8bd.chunk.css.map",
+    "static/media/TienLen.jpg": "/static/media/TienLen.92c7e4d2.jpg",
+    "static/media/UNO.png": "/static/media/UNO.079f06c7.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
